@@ -56,3 +56,16 @@ This project was developed to help academic institutions manage student particip
   - Authentication (admin login)
   - Dashboard with statistics
   - Notification or email system
+
+
+## 🗄️ Database Setup
+
+1. Open phpMyAdmin
+2. Create a new database named `student_activity_v2`
+3. Import the file `student_activity_v2.sql` located in the project root folder
+
+
+
+
+
+
